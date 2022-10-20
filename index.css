@@ -1,0 +1,48 @@
+div{
+    position: absolute;
+    width: 70%;
+    height: 60%;
+    left: 15%;
+    top: 10%;
+    background: #3fc2ff;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+
+}
+
+
+
+#pic1{
+    position: relative;left: 5em;top:4em
+}
+#pic2{
+   
+    position:relative;left: 18em;top:-3em
+}
+
+.images{
+    height:5em;
+    width:5em
+}
+
+button{
+  
+    background-color: rgb(0, 0, 0);color: white;
+    border-radius:10px ;
+    position: relative;
+    left: 5em;top:60%;
+    font-size: larger;padding:.3em;width: 5em;
+
+}
+
+span{
+    font-size: xx-large;
+    color:red;
+    position: relative;
+    left: 5em;
+    top: -7em;
+}
